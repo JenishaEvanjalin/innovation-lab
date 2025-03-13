@@ -7,14 +7,14 @@
 </head>
 <body>
     <h1>REGISTER</h1>
-    <h2>Name<input type="text" Name="Name"> </h2>
-    <h2>Email<input type="text" Name="Email"> </h2>
-    <h2>Password<input type="Password" Name="Password"> </h2>
-    <h2>Confirm Password<input type="Password" Name="Confirm Password"> </h2>
+    <h2>Name:<input type="text" Name="Name"> </h2>
+    <h2>Email:<input type="text" Name="Email"> </h2>
+    <h2>Password:<input type="Password" Name="Password"> </h2>
+    <h2>Confirm Password:<input type="Password" Name="Confirm Password"> </h2>
     <button type="submit">Register</button>
     <h1>LOGIN</h1>
-    <h2>Username<input type="text" Name="Username"> </h2>
-    <h2>Password<input type="Password" Name="Password"> </h2>
+    <h2>Username:<input type="text" Name="Username"> </h2>
+    <h2>Password:<input type="Password" Name="Password"> </h2>
     <button type="submit">Login</button>
 </body>
 </html>
